@@ -1,11 +1,11 @@
 # Hi there 👋 
 
 I am Milo
-- 🔭 I’m currently working as SEO/SEA
+- 🔭 I’m working as a SEO/SEA-Manager 
 - 🌱 I’m currently learning coding with [neuefische](https://github.com/neuefische)
 - 👯 I’m looking to collaborate on work 
 - 🤔 I’m looking for help with CSS 
-- 💬 Ask me about wine, food, Bees 
+- 💬 Ask me about wine, food & Bees 
 - 📫 How to reach me: @insta biodynwine
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: wine is more than a beverage
@@ -16,7 +16,6 @@ Pick a [slot](https://calendly.com/schmiessek/30min) if you'd like to meet me an
 
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=milodevhh&show_icons=true&theme=gotham" alt="milodevhh" />
-  
   <div id="footer" align="center">
   <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
 
