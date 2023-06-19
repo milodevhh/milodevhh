@@ -12,3 +12,8 @@ I am Milo
 
 ### Like to meet me?
 Pick a [slot](https://calendly.com/schmiessek/30min) if you'd like to meet me and chat about anything you are passionate about - please make sure to describe the agenda
+
+
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=milodevhh&show_icons=true&theme=gotham" alt="milodevhh" />
