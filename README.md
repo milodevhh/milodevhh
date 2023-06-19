@@ -15,5 +15,4 @@ Pick a [slot](https://calendly.com/schmiessek/30min) if you'd like to meet me an
 
 
 📈 my github stats
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=milodevhh&show_icons=true&theme=gotham" alt="milodevhh" />
