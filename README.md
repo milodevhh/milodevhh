@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as SEO/SEA
-- 🌱 I’m currently learning coding with @neuefische
+- 🌱 I’m currently learning coding with [neuefische](https://github.com/neuefische)
 - 👯 I’m looking to collaborate on work 
 - 🤔 I’m looking for help with CSS 
 - 💬 Ask me about wine, food, Bees 
