@@ -16,3 +16,11 @@ Pick a [slot](https://calendly.com/schmiessek/30min) if you'd like to meet me an
 
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=milodevhh&show_icons=true&theme=gotham" alt="milodevhh" />
+  
+  <div id="footer" align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="100"/>
+
+  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
